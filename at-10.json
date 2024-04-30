@@ -1,0 +1,209 @@
+{
+    "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations,customfield_10010.requestTypePractice",
+    "id": "10012",
+    "self": "https://zl-chen.atlassian.net/rest/api/3/issue/10012",
+    "key": "AT-10",
+    "fields": {
+        "statuscategorychangedate": "2024-04-30T17:55:10.109+0800",
+        "issuetype": {
+            "self": "https://zl-chen.atlassian.net/rest/api/3/issuetype/10003",
+            "id": "10003",
+            "description": "Bugs track problems or errors.",
+            "iconUrl": "https://zl-chen.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium",
+            "name": "Bug",
+            "subtask": false,
+            "avatarId": 10303,
+            "entityId": "f8208e4b-7917-4678-89d9-ec97d290255c",
+            "hierarchyLevel": 0
+        },
+        "timespent": null,
+        "customfield_10030": null,
+        "project": {
+            "self": "https://zl-chen.atlassian.net/rest/api/3/project/10000",
+            "id": "10000",
+            "key": "AT",
+            "name": "automation",
+            "projectTypeKey": "software",
+            "simplified": true,
+            "avatarUrls": {
+                "48x48": "https://zl-chen.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
+                "24x24": "https://zl-chen.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
+                "16x16": "https://zl-chen.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
+                "32x32": "https://zl-chen.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
+            }
+        },
+        "customfield_10031": null,
+        "customfield_10032": null,
+        "fixVersions": [],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "customfield_10027": null,
+        "customfield_10028": null,
+        "customfield_10029": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "lastViewed": "2024-04-30T17:56:30.460+0800",
+        "issuerestriction": {
+            "issuerestrictions": {},
+            "shouldDisplay": true
+        },
+        "watches": {
+            "self": "https://zl-chen.atlassian.net/rest/api/3/issue/AT-10/watchers",
+            "watchCount": 1,
+            "isWatching": true
+        },
+        "created": "2024-04-30T17:55:09.690+0800",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+            "self": "https://zl-chen.atlassian.net/rest/api/3/priority/2",
+            "iconUrl": "https://zl-chen.atlassian.net/images/icons/priorities/high.svg",
+            "name": "High",
+            "id": "2"
+        },
+        "customfield_10023": null,
+        "customfield_10024": null,
+        "customfield_10025": null,
+        "labels": [],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+            "hasEpicLinkFieldDependency": false,
+            "showField": false,
+            "nonEditableReason": {
+                "reason": "PLUGIN_LICENSE_ERROR",
+                "message": "The Parent Link is only available to Jira Premium users."
+            }
+        },
+        "customfield_10019": "0|i0001r:",
+        "aggregatetimeoriginalestimate": null,
+        "timeestimate": null,
+        "versions": [],
+        "issuelinks": [],
+        "assignee": {
+            "self": "https://zl-chen.atlassian.net/rest/api/3/user?accountId=712020%3Aee710e6b-7fc4-4ebb-bffb-09aba0eaadee",
+            "accountId": "712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee",
+            "emailAddress": "zl_chen@chiconypower.com",
+            "avatarUrls": {
+                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/48",
+                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/24",
+                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/16",
+                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/32"
+            },
+            "displayName": "ZL Chen",
+            "active": true,
+            "timeZone": "Asia/Taipei",
+            "accountType": "atlassian"
+        },
+        "updated": "2024-04-30T17:55:09.791+0800",
+        "status": {
+            "self": "https://zl-chen.atlassian.net/rest/api/3/status/10000",
+            "description": "",
+            "iconUrl": "https://zl-chen.atlassian.net/",
+            "name": "To Do",
+            "id": "10000",
+            "statusCategory": {
+                "self": "https://zl-chen.atlassian.net/rest/api/3/statuscategory/2",
+                "id": 2,
+                "key": "new",
+                "colorName": "blue-gray",
+                "name": "To Do"
+            }
+        },
+        "components": [],
+        "timeoriginalestimate": null,
+        "description": {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "text": "Order entry fails when selecting supplier.",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ],
+            "type": "doc",
+            "version": 1
+        },
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "timetracking": {},
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "summary": "Main order flow broken",
+        "creator": {
+            "self": "https://zl-chen.atlassian.net/rest/api/3/user?accountId=712020%3Aee710e6b-7fc4-4ebb-bffb-09aba0eaadee",
+            "accountId": "712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee",
+            "emailAddress": "zl_chen@chiconypower.com",
+            "avatarUrls": {
+                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/48",
+                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/24",
+                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/16",
+                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/32"
+            },
+            "displayName": "ZL Chen",
+            "active": true,
+            "timeZone": "Asia/Taipei",
+            "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "reporter": {
+            "self": "https://zl-chen.atlassian.net/rest/api/3/user?accountId=712020%3Aee710e6b-7fc4-4ebb-bffb-09aba0eaadee",
+            "accountId": "712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee",
+            "emailAddress": "zl_chen@chiconypower.com",
+            "avatarUrls": {
+                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/48",
+                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/24",
+                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/16",
+                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:ee710e6b-7fc4-4ebb-bffb-09aba0eaadee/8ac32d24-6919-4795-8b66-6a934749c015/32"
+            },
+            "displayName": "ZL Chen",
+            "active": true,
+            "timeZone": "Asia/Taipei",
+            "accountType": "atlassian"
+        },
+        "customfield_10000": "{}",
+        "aggregateprogress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+            "progress": 0,
+            "total": 0
+        },
+        "comment": {
+            "comments": [],
+            "self": "https://zl-chen.atlassian.net/rest/api/3/issue/10012/comment",
+            "maxResults": 0,
+            "total": 0,
+            "startAt": 0
+        },
+        "votes": {
+            "self": "https://zl-chen.atlassian.net/rest/api/3/issue/AT-10/votes",
+            "votes": 0,
+            "hasVoted": false
+        },
+        "worklog": {
+            "startAt": 0,
+            "maxResults": 20,
+            "total": 0,
+            "worklogs": []
+        }
+    }
+}
